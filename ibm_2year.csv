@@ -9,4 +9,4 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 2,Add Two Numbers,33.9%,Medium,0.00379539105290024, https://leetcode.com/problems/add-two-numbers
 14,Longest Common Prefix,35.4%,Easy,0.003320331762984143, https://leetcode.com/problems/longest-common-prefix
 1,Two Sum,45.6%,Easy,0.003278422738041615, https://leetcode.com/problems/two-sum
-53,Maximum Subarray,46.5%,Easy,0.002167082872150794, https://leetcode.com/problems/maximum-subarray
+53,Maximum Subarray,46.5%,Medium,0.002167082872150794, https://leetcode.com/problems/maximum-subarray
